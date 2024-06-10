@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orianoticnusi.github.io/sitemap.html
+Sitemap: https://orianoticnusi.github.io/app/sitemap.html
+Sitemap: https://orianoticnusi.github.io/assets/sitemap.html
+Sitemap: https://orianoticnusi.github.io/css/sitemap.html
+Sitemap: https://orianoticnusi.github.io/includes/sitemap.html
+Sitemap: https://orianoticnusi.github.io/item/sitemap.html
+Sitemap: https://orianoticnusi.github.io/src/sitemap.html
